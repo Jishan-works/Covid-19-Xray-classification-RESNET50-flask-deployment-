@@ -2,6 +2,7 @@
 ## A classification model for covid-19 chest X-ray images using ResNet50.
 
 Number of classes: 4
+
 Classes = Covid-19 Positive, Normal, Viral Pneumonia, Bacterial Pneumonia.
 
 ### Dataset Structure
