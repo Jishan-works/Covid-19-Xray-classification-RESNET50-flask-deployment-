@@ -23,8 +23,10 @@ Classes = Covid-19 Positive, Normal, Viral Pneumonia, Bacterial Pneumonia.
 
 ## Model deployment using Flask
 * Using the flask framework, the model was deployed in web application.
+
 ![alt text](https://github.com/Jishan-works/Covid-19-Xray-classification-RESNET50-flask-deployment-/blob/master/screenshot.png)
-### Prediction screeshot
+
+### Prediction
 ![alt text](https://github.com/Jishan-works/Covid-19-Xray-classification-RESNET50-flask-deployment-/blob/master/prediction_screenshot.png)
  
 
