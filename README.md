@@ -5,8 +5,11 @@ Number of classes: 4
 Classes = Covid-19, Healthy, Viral Pneumonia, Bacterial Pneumonia.
 
 ⋅⋅* Dataset Structure
+
 1. Two folders
+
 ⋅⋅1. Dataset: 532 images
+
 4. Test: 40 images
 
 ### Visualization of predicted data
