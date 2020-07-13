@@ -1,4 +1,4 @@
-# Covid-19-Xray-classification-RESNET50-flask-deployment-
+# Covid-19-Xray-classification-RESNET50-flask-deployment
 ## A classification model for covid-19 chest X-ray images using ResNet50 and deployed as web application using flask framework.
 
 Number of classes: 4
