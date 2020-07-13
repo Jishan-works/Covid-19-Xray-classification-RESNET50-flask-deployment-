@@ -10,4 +10,6 @@ Dataset: 532 images
 Test: 40 images
 
 
-![Screenshot](Prediction image.png)
+![Optional Text](../master/Prediction image.png)
+
+
