@@ -1,9 +1,20 @@
-# Covid-19-Xray-classification-RESNET50-flask-deployment
-## A classification model for covid-19 chest X-ray images using ResNet50 and deployed as web application using flask framework.
+# Repo for disease classification including Covid-19
 
-Number of classes: 4
+1. A classification model for covid-19 chest X-ray images using ResNet50 was built.
+2. Preprocessed and visualised the images.
+3. Number of classes: 4
+4. Classes = Covid-19 Positive, Normal, Viral Pneumonia, Bacterial Pneumonia.
 
-Classes = Covid-19 Positive, Normal, Viral Pneumonia, Bacterial Pneumonia.
+## Code and Resources Used
+
+Python Version: 3.7
+
+Packages: pandas, numpy, sklearn, matplotlib, seaborn, selenium, tensorflow, cv2, flask
+
+Tutorial: Dr. Ryan Ahmed(Udemy)
+
+CSS and html template: Dan We(Udemy)
+
 
 ### Dataset Structure
 
@@ -12,7 +23,7 @@ Classes = Covid-19 Positive, Normal, Viral Pneumonia, Bacterial Pneumonia.
 1. Train: 532 images
 2. Test: 40 images
 
-## Training process
+### Training process
 * ResNet50 was used for transfer learning.
 * Using ImageDataGenerator imported dataset and performed data augmentation to to significantly increase the diversity of data available for training models.
 * Dropout techniques were used to prevent the model from overfitting.
