@@ -11,9 +11,9 @@ Python Version: 3.7
 
 Packages: pandas, numpy, sklearn, matplotlib, seaborn, selenium, tensorflow, cv2, flask
 
-Tutorial: Dr. Ryan Ahmed(Udemy)
+Tutorial for Transfer learning: Dr. Ryan Ahmed(Udemy)
 
-CSS and html template: Dan We(Udemy)
+Tutorial for flask deployment: Dan We(Udemy)
 
 
 ### Dataset Structure
