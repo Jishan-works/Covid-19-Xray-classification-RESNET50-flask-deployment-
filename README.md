@@ -4,15 +4,12 @@
 Number of classes: 4
 Classes = Covid-19, Healthy, Viral Pneumonia, Bacterial Pneumonia.
 
-⋅⋅* Dataset Structure
+### Dataset Structure
 
-1. Two folders
+* Two folders
 
-⋅⋅1. Dataset: 532 images
-
-4. Test: 40 images
+1. Dataset: 532 images
+2. Test: 40 images
 
 ### Visualization of predicted data
 ![alt text](https://github.com/Jishan-works/Covid-19-Xray-classification-RESNET50-flask-deployment-/blob/master/prediction_image.png "Logo Title Text 1")
-
-
