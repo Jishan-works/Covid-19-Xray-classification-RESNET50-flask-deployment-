@@ -5,6 +5,7 @@
 3. Covid-19 Positive, Normal, Viral Pneumonia, Bacterial Pneumonia are the four classes used for building the model.
 4. Performed image preprocessing for all the training images.
 5. Trained and saved the model with prediction result of 70% accuracy.
+6. Deployed the model as web aplication using flask framework.
 
 ## Code and Resources Used
 
