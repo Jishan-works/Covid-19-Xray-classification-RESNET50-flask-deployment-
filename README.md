@@ -1,9 +1,10 @@
 # Repo for disease classification including Covid-19
 
 1. A classification model for covid-19 chest X-ray images using ResNet50 was built.
-2. Preprocessed and visualised the images.
-3. Number of classes: 4
-4. Classes = Covid-19 Positive, Normal, Viral Pneumonia, Bacterial Pneumonia.
+2. Dataset used consists of four classes.
+3. Covid-19 Positive, Normal, Viral Pneumonia, Bacterial Pneumonia are the four classes used for building the model.
+4. Performed image preprocessing for all the training images.
+5. Trained and saved the model with prediction result of 70% accuracy.
 
 ## Code and Resources Used
 
