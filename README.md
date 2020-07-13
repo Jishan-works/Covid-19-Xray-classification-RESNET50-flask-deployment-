@@ -10,6 +10,6 @@ Dataset: 532 images
 Test: 40 images
 
 
-![alt text](https://github.com/Jishan-works/Covid-19-Xray-classification-RESNET50-flask-deployment-/prediction_image.png "Logo Title Text 1")
+![alt text](https://github.com/Jishan-works/Covid-19-Xray-classification-RESNET50-flask-deployment-/blob/master/prediction_image.png "Logo Title Text 1")
 
 
