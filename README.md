@@ -11,7 +11,7 @@
 
 Python Version: 3.7
 
-Packages: pandas, numpy, sklearn, matplotlib, seaborn, selenium, tensorflow, cv2, flask
+Packages: pandas, numpy, sklearn, matplotlib, seaborn, tensorflow, cv2, flask
 
 Tutorial for Transfer learning: Dr. Ryan Ahmed (Udemy)
 
@@ -27,7 +27,7 @@ Tutorial for flask deployment: Dan We (Udemy)
 
 ### Training process
 * ResNet50 was used for transfer learning.
-* Using ImageDataGenerator imported dataset and performed data augmentation to to significantly increase the diversity of data available for training models.
+* Using ImageDataGenerator imported dataset and performed data augmentation to significantly increase the diversity of data available for training models.
 * Dropout techniques were used to prevent the model from overfitting.
 * Too many epochs can lead to overfitting of the training dataset, whereas too few may result in an underfit model. So, Early stopping is utilised which is a method that allows you to specify an arbitrary large number of training epochs and stop training once the model performance stops improving on a hold out validation dataset.
 * After evaluating the model using Test dataset, the prediction results were 70% accurate.
